@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Dev projects and Verilog projects as well.
 - 📫 Email me: guptamridul477@gmail.com or gupta.104@iitj.ac.in.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am crazily emotion-drived.
 
 <!---
 guptamridul477/guptamridul477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
